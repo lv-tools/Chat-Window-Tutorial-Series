@@ -7,7 +7,8 @@ Labview操作者练习
 Fork from:
 https://github.com/TomsLabVIEWAdventure/Chat-Window-Tutorial-Series
 
+## 12.使用Map数据类型代替数组
 
 视频地址：
-https://www.youtube.com/playlist?list=PLmF-6jvwRvVNFzBjzh4bQDjFbv6lShcth
+https://youtu.be/wnyG-59U6pw
 
