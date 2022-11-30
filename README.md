@@ -8,6 +8,8 @@ Fork from:
 https://github.com/TomsLabVIEWAdventure/Chat-Window-Tutorial-Series
 
 
-视频地址：
-https://www.youtube.com/playlist?list=PLmF-6jvwRvVNFzBjzh4bQDjFbv6lShcth
 
+## 13.使用接口代替抽象消息
+
+视频地址：
+https://youtu.be/oYUow2c-nCE
